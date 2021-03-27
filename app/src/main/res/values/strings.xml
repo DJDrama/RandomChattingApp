@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">랜덤 채팅</string>
+    <string name="hint_email_address">이메일 주소</string>
+    <string name="hint_password">비밀번호</string>
+</resources>
